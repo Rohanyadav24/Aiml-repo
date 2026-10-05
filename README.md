@@ -1,2 +1,2 @@
 # Aiml-repo
-Aiml topics and projects
+Aiml topics and projects.
